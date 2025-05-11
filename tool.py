@@ -63,5 +63,5 @@ convert_button.pack(pady=5)
 copy_button = ttk.Button(root, text="复制结果", command=handle_copy)
 copy_button.pack(pady=5)
 
-# 启动主循环
+
 root.mainloop()
